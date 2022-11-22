@@ -1,4 +1,28 @@
 {
+
+  "books":[
+    {
+      "coverimage": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "nameofbook": "Harry Potter and the Philosopher's Stone",
+      "author": "Harry ",
+      "genre": "Science",
+      "Edition": "2021",
+      "publisher": "afdaf",
+      "Cost": "100",
+      "id": 1
+    },
+    {
+      "coverimage": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "nameofbook": "Harry Potter and the Philosopher's Stone",
+      "author": "Harry",
+      "genre": "Fiction",
+      "Edition": "2024",
+      "publisher": "asdfasf",
+      "Cost": "2000",
+      "id": 2
+    }
+  ],
+
   "Products":[
   
   
