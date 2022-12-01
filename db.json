@@ -1410,7 +1410,13 @@
 
 "Cart":[]
 ,
-"todos":[]
+"todos":[
+  {
+    "id": 1,
+    "task": "EAt",
+    "status": false
+  }
+]
 
 
 
