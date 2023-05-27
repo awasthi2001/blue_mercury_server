@@ -72,7 +72,7 @@
       },
       {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-repairwear-uplifing-firming-cream-broad-spectrum?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714540265-1_235x.jpg?v=1660182769",
+        "ProductCard__Image_src": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51MgrOksMvL._AC_UF1000,1000_QL80_.jpg",
         "ProductCard__QuickView": "Quick View",
         "ProductCard__Brand": "Clinique",
         "ProductCard__Title": "Repairwear Uplifing Firming Cream Broad Spectrum SPF 15",
@@ -82,20 +82,6 @@
         "MerchBadge": "",
         "MerchBadge 2": "",
         "id": 2771,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-redness-solutions-daily-protective-base-broad-spectrum-spf-15?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714305383-1_235x.jpg?v=1658811900",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Redness Solutions Daily Protective Base Broad Spectrum SPF 15",
-        "ProductCard__Price": 30,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-redness-solutions-daily-protective-base-broad-spectrum-spf-15",
-        "bv_text": -287,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2772,
         "quntity": 1
       },
       {
@@ -110,20 +96,6 @@
         "MerchBadge": "",
         "MerchBadge 2": "Conscious Beauty",
         "id": 2775,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-repairwear-uplifting-firming-cream-broad-spectrum-spf-15?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714540272-1_235x.jpg?v=1660182776",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Repairwear Uplifting Firming Cream Broad Spectrum SPF 15",
-        "ProductCard__Price": 71,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-repairwear-uplifting-firming-cream-broad-spectrum-spf-15",
-        "bv_text": -259,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2776,
         "quntity": 1
       },
       {
@@ -184,7 +156,7 @@
       },
       {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-fresh-pressed-clinical-daily-overnight-boosters-with-pure-vitamins-c?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714908614-1_235x.jpg?v=1658811500",
+        "ProductCard__Image_src": "data:image/jpeg;base64,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",
         "ProductCard__QuickView": "Quick View",
         "ProductCard__Brand": "Clinique",
         "ProductCard__Title": "Fresh Pressed Clinical™ Daily + Overnight Boosters Vitamins C+A",
@@ -194,20 +166,6 @@
         "MerchBadge": "",
         "MerchBadge 2": "",
         "id": 2781,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-smart-clinical-md-resculpt-and-revolumize?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714985509-1_235x.jpg?v=1660182784",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Smart Clinical™ MD Multi-Dimensional Age Transformer Duo Resculpt + Revolumize",
-        "ProductCard__Price": 73,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-smart-clinical-md-resculpt-and-revolumize",
-        "bv_text": -181,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2782,
         "quntity": 1
       },
       {
@@ -323,20 +281,6 @@
         "quntity": 1
       },
       {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-irritation?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714983413-1_235x.jpg?v=1661270954",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramatically Different Moisturizing Lotion+™ + Active Cartridge Concentrate for Irritation",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-irritation",
-        "bv_text": -21,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2792,
-        "quntity": 1
-      },
-      {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/tan-luxe-the-water-hydrating-self-tan-water?L1=skin-care&L1Name=Skin%20Care",
         "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-color-mediumdark-5035832105147-1_235x.jpg?v=1664959295",
         "ProductCard__QuickView": "Quick View",
@@ -393,20 +337,6 @@
         "quntity": 1
       },
       {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-clarifying-lotion-4?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-135oz-020714462741-1_235x.jpg?v=1658811239",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clarifying Lotion 4",
-        "ProductCard__Price": 32,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-clarifying-lotion-4",
-        "bv_text": -1997,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2797,
-        "quntity": 1
-      },
-      {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clarins-extra-firming-mask?L1=skin-care&L1Name=Skin%20Care",
         "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-title-defaulttitle-3380810093834-1_235x.jpg?v=1664282486",
         "ProductCard__QuickView": "Quick View",
@@ -446,20 +376,6 @@
         "MerchBadge": "New",
         "MerchBadge 2": "Limited Edition",
         "id": 2800,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-fatigue?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714984748-1_235x.jpg?v=1660182338",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramatically Different Moisturizing Lotion™ + ACC for Fatigue",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-fatigue",
-        "bv_text": -13,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2801,
         "quntity": 1
       },
       {
@@ -561,34 +477,6 @@
         "quntity": 1
       },
       {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/estee-lauder-resilience-multi-effect-tri-peptide-face-and-neck-creme-spf15-normal?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-75ml-887167368682-1_235x.jpg?v=1658449344",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Estée Lauder",
-        "ProductCard__Title": "Resilience Multi-Effect Tri-Peptide Face and Neck Creme SPF 15, Normal",
-        "ProductCard__Price": 128,
-        "bv_main_container_href":"https://bluemercury.com/products/estee-lauder-resilience-multi-effect-tri-peptide-face-and-neck-creme-spf15-normal",
-        "bv_text": -308,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2811,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-lines-wrinkles?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714985011-1_235x.jpg?v=1660182674",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramatically Different™ Hydrating Jelly + ACC for Lines & Wrinkles",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-lines-wrinkles",
-        "bv_text": -25,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2812,
-        "quntity": 1
-      },
-      {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/this-works-stress-check-cbd-lip-mask?L1=skin-care&L1Name=Skin%20Care",
         "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-876972009712-1_235x.jpg?v=1660191153",
         "ProductCard__QuickView": "Quick View",
@@ -642,34 +530,6 @@
         "MerchBadge": "",
         "MerchBadge 2": "",
         "id": 2816,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-turnaround-revitalizing-serum?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-1oz-020714871659-1_235x.jpg?v=1658812089",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Turnaround Accelerated Renewal Serum",
-        "ProductCard__Price": 52,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-turnaround-revitalizing-serum",
-        "bv_text": -217,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2817,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-pores-and-uneven-texture?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714983437-1_235x.jpg?v=1660182361",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramatically Different Moisturizing Lotion+™ + Active Cartridge Concentrate for Pores & Uneven Texture",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-clinique-id-dramatically-different-moisturizing-lotion-active-cartridge-concentrate-for-pores-and-uneven-texture",
-        "bv_text": -13,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2818,
         "quntity": 1
       },
       {
@@ -800,7 +660,7 @@
       },
       {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-smart-clinical-md-resculpt?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714985417-1_235x.jpg?v=1660182779",
+        "ProductCard__Image_src": "data:image/jpeg;base64,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",
         "ProductCard__QuickView": "Quick View",
         "ProductCard__Brand": "Clinique",
         "ProductCard__Title": "Smart Clinical™ MD Multi-Dimensional Age TransformerResculpt",
@@ -910,49 +770,6 @@
         "id": 2835,
         "quntity": 1
       },
-
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-uneven-skin-tone?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714984991-1_235x.jpg?v=1660182685",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramtically Different™ Hydrating Jelly + ACC for Uneven Skin Tone",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-uneven-skin-tone",
-        "bv_text": -420,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2837,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-irritation?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714984946-1_235x.jpg?v=1660182668",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Clinique id™: Dramatically Different™ Hydrating Jelly + ACC for Irritation",
-        "ProductCard__Price": 41,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-id-dramatically-different-hydrating-jelly-active-cartridge-concentrate-for-irritation",
-        "bv_text": -7,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2838,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-smart-clinical-md-revolumize?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/global_images-020714985387-1_235x.jpg?v=1660182791",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Smart Clinical™ MD Multi-Dimensional Age TransformerRevolumize",
-        "ProductCard__Price": 73,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-smart-clinical-md-revolumize",
-        "bv_text": -498,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 2839,
-        "quntity": 1
-      },
      
       {
         "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/kiehls-since-1851-blue-herbal-spot-treatment?L1=skin-care&L1Name=Skin%20Care",
@@ -980,34 +797,6 @@
         "MerchBadge": "",
         "MerchBadge 2": "",
         "id": 4052,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/fresh-rose-deep-hydration-sleeping-mask?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-title-defaulttitle-809280138898-1_235x.jpg?v=1660184088",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Fresh",
-        "ProductCard__Title": "Rose Deep Hydration Sleeping Mask",
-        "ProductCard__Price": 52,
-        "bv_main_container_href":"https://bluemercury.com/products/fresh-rose-deep-hydration-sleeping-mask",
-        "bv_text": -1449,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 4053,
-        "quntity": 1
-      },
-      {
-        "ProductCard__ImageWrapper_href":"https://bluemercury.com/collections/skin-care/products/clinique-moisture-surge-72-hour-auto-replenishing-hydrator?L1=skin-care&L1Name=Skin%20Care",
-        "ProductCard__Image_src": "https://cdn.shopify.com/s/files/1/0283/0185/2747/products/variant_images-size-125ml-020714898205-1_235x.jpg?v=1660182718",
-        "ProductCard__QuickView": "Quick View",
-        "ProductCard__Brand": "Clinique",
-        "ProductCard__Title": "Moisture Surge™ 72 Hour Auto-Replenishing Hydrator",
-        "ProductCard__Price": 78,
-        "bv_main_container_href":"https://bluemercury.com/products/clinique-moisture-surge-72-hour-auto-replenishing-hydrator",
-        "bv_text": -41,
-        "MerchBadge": "",
-        "MerchBadge 2": "",
-        "id": 4054,
         "quntity": 1
       },
       {
